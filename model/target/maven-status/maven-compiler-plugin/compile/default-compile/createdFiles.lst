@@ -1,0 +1,16 @@
+com/coviam/flightsearch/dto/Price.class
+com/coviam/flightsearch/dto/Itineraries.class
+com/coviam/flightsearch/dto/ApiResponse.class
+com/coviam/flightsearch/dto/RequestDataDTO.class
+com/coviam/flightsearch/constants/Constants.class
+com/coviam/flightsearch/dto/SearchData.class
+com/coviam/flightsearch/dto/Arrival.class
+com/coviam/flightsearch/dto/Departure.class
+com/coviam/flightsearch/dto/ResponseDataDTO.class
+com/coviam/flightsearch/document/ResponseData.class
+com/coviam/flightsearch/document/DBDocument.class
+com/coviam/flightsearch/dto/TokenDTO.class
+com/coviam/flightsearch/document/RequestData.class
+com/coviam/flightsearch/dto/FLightDetailsDTO.class
+com/coviam/flightsearch/document/FlightDetails.class
+com/coviam/flightsearch/dto/Segments.class

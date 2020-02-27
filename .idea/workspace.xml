@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34851da3-83c0-4068-8ee5-64ce7e9b15d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YKVW2w6nIdcuNosEqXuhAI6iam" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/model/src/main/java/com/coviam/flightsearch/document" />
+      <recent name="$PROJECT_DIR$/model/src/main/java/com/coviam/flightsearch/dto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="flightsearch-parent" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="flightsearch-parent" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="rest-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coviam.flightsearch.rest.web.controller.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.coviam.flightsearch.rest.web.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SearchApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34851da3-83c0-4068-8ee5-64ce7e9b15d6" name="Default Changelist" comment="" />
+      <created>1582691300375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582691300375</updated>
+      <workItem from="1582691304301" duration="1453000" />
+      <workItem from="1582693015347" duration="673000" />
+      <workItem from="1582693721716" duration="10656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1582784861646">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1582784861646" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1582791853513">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582791853513" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1582786464310" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1582791853512">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582791853512" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1582786464307" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1582791853511">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582791853511" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1582786464305" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1582791853513">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582791853513" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1582786464308" />
+    <state width="1238" height="212" key="GridCell.Tab.1.bottom" timestamp="1582791853516">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582791853516" />
+    <state width="1238" height="212" key="GridCell.Tab.1.bottom/0.23.1280.724@0.23.1280.724" timestamp="1582786464319" />
+    <state width="1238" height="212" key="GridCell.Tab.1.center" timestamp="1582791853515">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1582791853515" />
+    <state width="1238" height="212" key="GridCell.Tab.1.center/0.23.1280.724@0.23.1280.724" timestamp="1582786464316" />
+    <state width="1238" height="212" key="GridCell.Tab.1.left" timestamp="1582791853514">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1582791853514" />
+    <state width="1238" height="212" key="GridCell.Tab.1.left/0.23.1280.724@0.23.1280.724" timestamp="1582786464312" />
+    <state width="1238" height="212" key="GridCell.Tab.1.right" timestamp="1582791853515">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1582791853515" />
+    <state width="1238" height="212" key="GridCell.Tab.1.right/0.23.1280.724@0.23.1280.724" timestamp="1582786464318" />
+    <state x="100" y="100" width="1080" height="600" key="dock-window-1" timestamp="1582791360307">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="dock-window-1/0.23.1280.724@0.23.1280.724" timestamp="1582791360307" />
+    <state x="34" y="97" key="new project wizard" timestamp="1582692686433">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="34" y="97" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1582692686433" />
+  </component>
+</project>

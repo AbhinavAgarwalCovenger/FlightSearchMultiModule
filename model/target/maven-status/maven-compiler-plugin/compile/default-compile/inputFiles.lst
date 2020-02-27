@@ -1,0 +1,16 @@
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/dto/Departure.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/document/DBDocument.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/dto/ResponseDataDTO.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/dto/Price.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/document/FlightDetails.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/document/RequestData.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/dto/TokenDTO.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/dto/ApiResponse.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/dto/Arrival.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/dto/Segments.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/dto/SearchData.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/dto/Itineraries.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/dto/RequestDataDTO.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/dto/FLightDetailsDTO.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/constants/Constants.java
+/Users/abhinavagarwal/Desktop/FlightSearch/flightsearch/model/src/main/java/com/coviam/flightsearch/document/ResponseData.java
